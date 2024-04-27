@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-repository-zeta-bay.vercel.app/](https://my-repository-zeta-bay.vercel.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **node, react, PHP, MongoDB, MySQL, Express, JavaScript, C++**
 
 - 📫 How to reach me **agarwalhitesh551@gmail.com**
 
@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hitesh-agarwal-350830223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hitesh-agarwal-350830223/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__agarwalhitesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__agarwalhitesh/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/agarwalhitesh551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/agarwalhitesh551" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/agarwalhitesh551/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/agarwalhitesh551/" height="30" width="40" /></a>
 </p>
